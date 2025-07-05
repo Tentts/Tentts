@@ -1,7 +1,7 @@
 ## Hi, I'm Tentts!
 
 # 💫 About Me:
-🔍 Software engineer focused on low-level reality<br>
+🔍 Computer engineer focused on low-level reality<br>
 🖥️ Studied [Computer engineering](https://web.ua.es/es/grados/grado-en-ingenieria-informatica/) at University of Alicante<br>
 🛡️ Studied [Master’s Degree in Cybersecurity and Cyberintelligence](https://www.upv.es/estudios/master/mucc/en/home/) at Universitat Politècnica de València<br>
 🍃 Last worked as cybersecurity researcher<br>
