@@ -1,4 +1,4 @@
-## Hi, I'm Tentts!
+## Hi!
 
 # 💫 About Me:
 🔍 Computer engineer focused on low-level problems<br>
